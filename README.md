@@ -1,2 +1,2 @@
-# machine-learning-notes
-Notes from the ML course
+# Machine Learning Notes
+Notes from the ML course from Coursera
